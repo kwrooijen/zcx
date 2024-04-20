@@ -1,0 +1,25 @@
+{
+    "id": 1,
+    "image": "https://kwrooijen.github.io/zcx/tokens/token1.webp",
+    "token_id": "1",
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "test #1",
+    "description": "test desc",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "type1",
+        "value": "99"
+      },
+      {
+        "trait_type": "type2",
+        "value": "123"
+      },
+      {
+        "trait_type": "type3",
+        "value": "qwerty"
+      }
+    ]
+  }
