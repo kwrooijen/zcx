@@ -1,0 +1,21 @@
+{
+    "id": 6,
+    "image": "https://kwrooijen.github.io/zcx/tokens/token6.webp",
+    "token_id": "6",
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "test #6",
+    "description": "test desc",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "min-damage",
+        "value": "13"
+      },
+      {
+        "trait_type": "max-damage",
+        "value": "26"
+      }
+    ]
+  }
